@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">后台通知跳前台</string>
+    <string name="notice_click_into">点击进入&#8230;</string>
+</resources>
